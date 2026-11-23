@@ -29,7 +29,7 @@ public:
 
 int main() {
     Passenger p;
-    p.name = "Sachin";
+    p.name = "G.Ram Charan";
     p.category = "Student";
 
     SmartCard card;

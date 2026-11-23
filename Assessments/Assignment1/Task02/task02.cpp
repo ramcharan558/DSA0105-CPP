@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     const int BASE_FARE = 10;
     int passengerAge = 20;
-    string passengerName = "Rohit Sharma";
+    string passengerName = "G.Ram Charan";
 
     cout << "CITY METRO SMART CARD SYSTEM" << endl;
     cout << "Passenger Name: " << passengerName << endl;

@@ -1,5 +1,5 @@
 CITY METRO SMART CARD SYSTEM
-Passenger: Sachin
+Passenger: G.Ram Charan
 Category: Student
 Card Balance: Rs. 100
 Travel Zone: Inner Zone

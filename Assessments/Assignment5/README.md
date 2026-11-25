@@ -1,8 +1,8 @@
 # Assignment 5 - CO5
 ## Reliable Software with Runtime Polymorphism and Exceptions
 
-**Name:** S.SACHIN
-**Register Number:** 192525045
+**Name:** G.Ram Charan
+**Register Number:** 192525043
 **Language:** C++
 **Compiler:** GCC
 **Standard:** C++17

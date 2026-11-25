@@ -1,7 +1,7 @@
 # TASK 02 – FROM REQUIREMENT TO HIERARCHY
 
-**Name:** S.SACHIN  
-**Register Number:** 192525045  
+**Name:** G.Ram charan
+**Register Number:** 192525043  
 **Compiler:** g++ 15.2.0
 
 ## Relationships

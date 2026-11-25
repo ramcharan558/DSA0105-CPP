@@ -1,7 +1,7 @@
 TASK 02 – COPY CONSTRUCTORS: SHALLOW AND DEEP COPY
 
-Name: S.SACHIN
-Register Number: 192525045
+Name:G.Ram Charan 
+Register Number: 192525043
 Language: C++
 Compiler: G++ 15.2.0
 

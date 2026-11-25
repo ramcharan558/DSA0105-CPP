@@ -1,7 +1,7 @@
 # Code and Debug 1
 
-**Name:** S.SACHIN  
-**Register Number:** 192525045  
+**Name:** G.Ram Charan
+**Register Number:** 192525043
 **Subject:** Object Oriented Programming with C++
 
 ## Section A – Debugging Programs

@@ -1,7 +1,7 @@
 # TASK 06 – RULES OF OPERATOR OVERLOADING
 
-**Name:** S.SACHIN  
-**Register Number:** 192525045  
+**Name:** G.Ram charan  
+**Register Number:** 192525043  
 **Language:** C++
 
 ## Concepts

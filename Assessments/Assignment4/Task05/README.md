@@ -1,7 +1,7 @@
 # TASK 05 – POINTERS TO OBJECTS AND THIS POINTER
 
-**Name:** S.SACHIN  
-**Register Number:** 192525045  
+**Name:** G.Ram Charn 
+**Register Number:** 192525043  
 **Compiler:** g++ 15.2.0
 
 ## Concepts

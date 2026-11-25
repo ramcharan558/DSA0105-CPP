@@ -2,7 +2,7 @@ VIRTUAL BASE CLASS CONSTRUCTION
 Person Student Staff TA 
 
 TEACHING ASSISTANT DETAILS
-Name: Lavanya
+Name: harine
 ID: 101
 Phone: 9876543210
 Programme: CSE
@@ -11,7 +11,7 @@ Department: Computer Science
 Salary: 25000
 
 RESEARCH SCHOLAR
-Person Student Name: Kavya
+Person Student Name: jogesh
 ID: 102
 Phone: 9876501234
 Research Fellowship: 15000

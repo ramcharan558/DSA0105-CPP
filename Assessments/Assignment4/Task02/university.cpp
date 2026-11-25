@@ -82,14 +82,14 @@ public:
 int main() {
     cout << "VIRTUAL BASE CLASS CONSTRUCTION\n";
 
-    TeachingAssistant ta("Lavanya", 101, "9876543210",
+    TeachingAssistant ta("harine", 101, "9876543210",
                          "CSE", 8.5, "Computer Science", 25000);
 
     cout << "\n\nTEACHING ASSISTANT DETAILS\n";
     ta.display();
 
     cout << "\nRESEARCH SCHOLAR\n";
-    ResearchScholar rs("Kavya", 102, "9876501234",
+    ResearchScholar rs("jogesh", 102, "9876501234",
                        "CSE", 9.0, 15000);
     rs.displayPerson();
     rs.displayFellowship();

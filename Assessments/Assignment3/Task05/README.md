@@ -1,7 +1,7 @@
 # TASK 05 – INCREMENT, COMPARISON AND SUBSCRIPT OPERATORS
 
-**Name:** S.SACHIN  
-**Register Number:** 192525045 
+**Name:** G.Ram Charan  
+**Register Number:** 192525043 
 **Language:** C++
 
 ## Concepts

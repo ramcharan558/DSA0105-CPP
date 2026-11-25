@@ -124,15 +124,15 @@ int main() {
     cout << "STUDENT CONSTRUCTION AND DESTRUCTION\n";
 
     {
-        Student s("Kavya", 19, 192311001,
-                  "Salem", 636001, "C++");
+        Student s("jogesh", 19, 192525040,
+                  "Siva", 636001, "C++");
         s.display();
     }
 
     cout << "\nTEACHING ASSISTANT CONSTRUCTION\n";
 
     {
-        TeachingAssistant ta("Lavanya", 20, 192565025,
+        TeachingAssistant ta("hirani", 20, 192565025,
                              "Chennai", 600001,
                              "C++", "CSE");
     }

@@ -1,8 +1,8 @@
 CODE AND DEBUG 2 – UNIT II
 Functions and Classes & Objects in C++
 
-Name: S.SACHIN
-Register Number: 192525045
+Name: G.Ram Charan
+Register Number: 192525043
 Subject: Object Oriented Programming with C++
 
 SECTION A – DEBUGGING PROGRAMS
